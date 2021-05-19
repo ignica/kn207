@@ -1,0 +1,11 @@
+#fixed-sidebar {
+  position: fixed;
+  max-width: 20%;
+  color: white;
+}
+section{
+  text-align: center;
+}
+footer{
+  text-align: center;
+}
